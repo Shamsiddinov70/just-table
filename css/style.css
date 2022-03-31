@@ -1,0 +1,62 @@
+
+body {
+    background-color: rgb(77, 167, 252);
+}
+
+table {
+    border-spacing: 5px;
+}
+
+table {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 3px;
+}
+
+table th,td {
+    height: 50px;
+}
+
+th, td {
+    padding: 5px;
+}
+
+table, td, th {
+    border: 1px solid black;
+    /* border-collapse: collapse; */
+}
+
+.day {
+    font-size: 40px;
+    font-weight: 900;
+    width: 150px;
+}
+
+.begin {
+    width: 200px;
+}
+
+.end {
+    width: 200px;
+}
+
+.yellow-row {
+    background-color: rgb(226, 130, 4);
+}
+
+.blue-row {
+    background-color: blue;
+}
+
+.green-row {
+    background-color: rgb(5, 95, 5);
+}
+
+.caption {
+    caption-side:bottom;
+    font-size: 40px;
+    font-weight: 500;
+    margin-top: 25px;
+}
